@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/joel2145/TypeScript-Developers/issues"
   },
-  "homepage": "https://github.com/joel2145/TypeScript-Developers#readme"
+  "homepage": "https://github.com/joel2145/TypeScript-Developers#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
